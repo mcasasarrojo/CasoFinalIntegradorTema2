@@ -1,5 +1,5 @@
 package archetype-resources.src.main.java;
 
-public class Animales {
+public class Gestion_habitats {
     
 }
